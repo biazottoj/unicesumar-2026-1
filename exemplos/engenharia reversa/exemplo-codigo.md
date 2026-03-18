@@ -1,4 +1,5 @@
-```class Pedido {
+```
+class Pedido {
     public String clienteEmail;
     public double valorItens;
     public boolean clientePremium;
@@ -73,4 +74,5 @@ class PedidoService {
     public void gerarLogAntigo(Pedido pedido) {
         System.out.println("LOG LEGADO");
     }
-}```
+}
+```
