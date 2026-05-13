@@ -6,7 +6,7 @@ O projeto representa um pequeno sistema de estacionamento. Ele possui classes pa
 
 O sistema compila e executa, mas algumas responsabilidades estão mal distribuídas. A tarefa é melhorar a organização do código por meio de refatorações.
 
-## Regras
+## Orientacões para a conducão da atividade
 
 1. Execute o projeto antes de modificar o código.
 2. Observe a saída produzida pela classe `Main`.
