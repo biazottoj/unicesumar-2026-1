@@ -6,6 +6,8 @@
     * Até 30/04/2026
 - Ativdidade 12
     * Até 14/05/2026
+- Ativdidade 13
+	* Até 21/05/2026
     
 ---
 
@@ -25,7 +27,7 @@
 - Ativdidade 12
     * Até 13/05/2026
 - Atividade 13
-    * Até 20/05/2026
+    * Até 19/05/2026
     
 ---
 
@@ -34,3 +36,5 @@
     * Até 05/05/2025
 - Ativdidade 12
     * Até 18/05/2026
+- Ativdidade 13
+    * Até 19/05/2026
