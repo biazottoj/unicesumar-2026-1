@@ -209,3 +209,6 @@ Sua implementação deve conter:
 ---
 
 # Entrega
+
+- Parte 1 (4,5,11): [https://forms.gle/tcxeFjCuptsQAMxp7](https://forms.gle/tcxeFjCuptsQAMxp7)
+    * Turma B: Até 21/05 as 21:40
