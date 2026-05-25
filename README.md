@@ -8,6 +8,8 @@
     * Até 14/05/2026
 - Ativdidade 13
 	* Até 21/05/2026
+- Atividade 14 (Parte 1)
+	* Até 26/05 as 23:59
     
 ---
 
@@ -18,7 +20,9 @@
     * Até 07/05/2026
 - Atividade 13
     * Até 14/05/2026
-    
+- Atividade 14 (Parte 1)
+	* Até 21/05 as 21:40
+
 ---
 
 ### Turma C
@@ -27,8 +31,8 @@
 - Ativdidade 12
     * Até 13/05/2026
 - Atividade 13
-    * Até 19/05/2026
-    
+    * Até 19/05/2026 
+
 ---
 
 ### Turma D
@@ -38,3 +42,5 @@
     * Até 18/05/2026
 - Ativdidade 13
     * Até 19/05/2026
+- Atividade 14 (Parte 1)
+	* Até 26/05 as 23:59
