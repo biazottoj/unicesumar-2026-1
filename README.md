@@ -10,6 +10,9 @@
 	* Até 21/05/2026
 - Atividade 14 (Parte 1)
 	* Até 26/05 as 23:59
+- Atividade 14 (Parte 2)
+	* Até 08/06 as 23:59
+	* Utilizar link disponível no fim do arquivo da atividade
     
 ---
 
@@ -22,6 +25,9 @@
     * Até 14/05/2026
 - Atividade 14 (Parte 1)
 	* Até 21/05 as 21:40
+- Atividade 14 (Parte 2)
+	* Até 10/06 as 23:59
+	* Utilizar link disponível no fim do arquivo da atividade
 
 ---
 
@@ -31,7 +37,10 @@
 - Ativdidade 12
     * Até 13/05/2026
 - Atividade 13
-    * Até 19/05/2026 
+    * Até 19/05/2026
+- Atividade 14 (Completa)
+	* Até 02/06 as 23:59 
+	* Utilizar link disponível no fim do arquivo da atividade
 
 ---
 
@@ -44,3 +53,6 @@
     * Até 19/05/2026
 - Atividade 14 (Parte 1)
 	* Até 26/05 as 23:59
+- Atividade 14 (Parte 02) - Usar mesmo link da Parte 01 (disponível no fim do arquivo da atividade)
+	* Até 02/06 as 23:59
+	* Utilizar link disponível no fim do arquivo da atividade
