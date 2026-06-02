@@ -56,3 +56,5 @@
 - Atividade 14 (Parte 02) - Usar mesmo link da Parte 01 (disponível no fim do arquivo da atividade)
 	* Até 02/06 as 23:59
 	* Utilizar link disponível no fim do arquivo da atividade
+- Atividade 15
+	* Até 09/06 as 23:59

@@ -464,3 +464,6 @@ Produto{codigo='G902', nome='Headset USB', precoFinal=140.0, quantidadeEstoque=1
 ```
 
 ---
+
+## Entrega
+- Realize a entrega da atividade usando o link: [https://forms.gle/xeJfAEP6M4NHv1xn8](https://forms.gle/xeJfAEP6M4NHv1xn8)
