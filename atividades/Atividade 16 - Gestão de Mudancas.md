@@ -353,3 +353,7 @@ Cada grupo deve entregar um documento contendo:
 10. plano inicial de implementação;
 11. estratégia de validação;
 12. reflexão final.
+
+
+# Entrega
+Utilize o link a seguir para a entrega: [https://forms.gle/DxqPJX5izkBzKkYZ9](https://forms.gle/DxqPJX5izkBzKkYZ9)

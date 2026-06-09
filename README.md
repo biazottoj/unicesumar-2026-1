@@ -13,6 +13,8 @@
 - Atividade 14 (Parte 2)
 	* Até 08/06 as 23:59
 	* Utilizar link disponível no fim do arquivo da atividade
+- Atividade 15
+    * Até 11/06 as 23:59
     
 ---
 
@@ -28,6 +30,8 @@
 - Atividade 14 (Parte 2)
 	* Até 10/06 as 23:59
 	* Utilizar link disponível no fim do arquivo da atividade
+- Atividade 15
+    * Até 11/06 as 23:59
 
 ---
 
@@ -41,6 +45,8 @@
 - Atividade 14 (Completa)
 	* Até 02/06 as 23:59 
 	* Utilizar link disponível no fim do arquivo da atividade
+- Atividade 15
+    * Até 10/06 as 23:59
 
 ---
 
@@ -58,3 +64,5 @@
 	* Utilizar link disponível no fim do arquivo da atividade
 - Atividade 15
 	* Até 09/06 as 23:59
+- Atividade 16
+    * Até 15/06 as 23:59
