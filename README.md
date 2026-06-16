@@ -15,6 +15,8 @@
 	* Utilizar link disponível no fim do arquivo da atividade
 - Atividade 15
     * Até 11/06 as 23:59
+ - Atividade 16
+    * Até 22/06 as 23:59
 
 ---
 
