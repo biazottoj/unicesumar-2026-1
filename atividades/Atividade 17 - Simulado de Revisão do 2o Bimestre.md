@@ -1,10 +1,10 @@
 # Lista de Revisão — Manutenção de Software
 
-Esta lista reúne **30 atividades de revisão** baseadas nos conteúdos trabalhados nas atividades anteriores da disciplina: código limpo, legibilidade, comentários, formatação, funções, refatoração, Strategy, Singleton e Adapter.
+Esta lista reúne **30 atividades de revisão** baseadas nos conteúdos trabalhados nas atividades anteriores da disciplina: código limpo, legibilidade, formatação, funções, refatoração, Strategy, Singleton e Adapter.
 
 ---
 
-## Parte 1 — Código Limpo, Legibilidade e Comentários
+## Parte 1 — Código Limpo e Legibilidade 
 
 ### 1. Conceito de código limpo
 
@@ -54,67 +54,6 @@ Faça o que se pede:
 a) Identifique o problema de legibilidade.  
 b) Renomeie os parâmetros.  
 c) Explique por que a nova versão ficou mais clara.
-
----
-
-### 4. Comentário redundante
-
-Analise o código:
-
-```java
-// calcula o total do pedido
-public double calcularTotalPedido(double subtotal, double frete) {
-    return subtotal + frete;
-}
-```
-
-Faça o que se pede:
-
-a) Explique por que o comentário pode ser considerado redundante.  
-b) Reescreva o código sem o comentário.  
-c) Explique quando um comentário realmente seria útil.
-
----
-
-### 5. Comentário desatualizado
-
-Analise o código:
-
-```java
-// aplica desconto de 10% para compras acima de R$ 100
-public double calcularDesconto(double valorCompra) {
-    if (valorCompra > 200) {
-        return valorCompra * 0.15;
-    }
-    return 0;
-}
-```
-
-Faça o que se pede:
-
-a) Identifique a inconsistência entre comentário e código.  
-b) Explique por que isso prejudica a manutenção.  
-c) Reescreva o código de forma mais confiável e legível.
-
----
-
-### 6. Código comentado
-
-Analise o trecho abaixo:
-
-```java
-public void finalizarVenda(Venda venda) {
-    vendaRepository.salvar(venda);
-    // emailService.enviarConfirmacao(venda);
-    notaFiscalService.emitir(venda);
-}
-```
-
-Responda:
-
-a) Por que código comentado pode confundir outro desenvolvedor?  
-b) O que deveria ser usado no lugar de manter código antigo comentado?  
-c) Reescreva o método da forma que você considera mais adequada.
 
 ---
 
