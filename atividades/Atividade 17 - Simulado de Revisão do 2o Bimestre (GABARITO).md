@@ -1,11 +1,5 @@
 # Gabarito — Atividade 17: Simulado de Revisão do 2º Bimestre
 
-> **Observação:** no arquivo da atividade, a numeração apresentada passa da questão 3 para a questão 7. Portanto, este gabarito responde às **27 questões efetivamente presentes** no enunciado.
-
-Este documento apresenta **uma possível solução** para cada questão. Em exercícios de refatoração e padrões de projeto, outras soluções também podem ser consideradas corretas quando preservarem o comportamento esperado e melhorarem a organização do código.
-
----
-
 ## Parte 1 — Código Limpo e Legibilidade
 
 ## 1. Conceito de código limpo
